@@ -10,7 +10,7 @@ Implementar, por meio de um estudo de caso, a transmissão de dados com os proto
 * Implementações que utilizam TCP/UDP como base (ex.:HTTP/RTSP) não serão aceitos para essa tarefa
 2. Avaliação em grupo 
 3. Estudo de caso de livre escolha 
-* O caso de estudo escolhido foi um jogo multiplayer baseado num tutorial de [Tim Rusica](https://www.linkedin.com/in/tim-ruscica/)
+* O caso de estudo escolhido foi uma aplicação de jogo multiplayer de [Tim Rusica](https://www.linkedin.com/in/tim-ruscica/)
 
 4.Linguagem de programação
 * Foi escolhido pelo grupo utilizar Python
