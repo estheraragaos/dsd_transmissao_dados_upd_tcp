@@ -1,5 +1,6 @@
 import pygame
-from network import Network
+#from network import Network 
+from networkUDP import Network
 
 
 class Player():
