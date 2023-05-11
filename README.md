@@ -2,6 +2,7 @@
 Professor: Gracon Lima <br>
 Estudantes: Esther Aragão, Luiz Felipe, Renato Bernadino
 <br>
+[Slides](https://docs.google.com/presentation/d/1_Zuxaudr53LctINlhhqucPFl1MJo9GJJAvksIyFhV9g/edit?usp=sharing)
 # Meta
 Implementar, por meio de um estudo de caso, a transmissão de dados com os protocolos TCP e UDP
 <br>
